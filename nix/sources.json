@@ -1,4 +1,16 @@
 {
+    "devshell": {
+        "branch": "master",
+        "description": "Per project developer environments",
+        "homepage": "https://numtide.github.io/devshell/",
+        "owner": "numtide",
+        "repo": "devshell",
+        "rev": "7a7a7aa0adebe5488e5abaec688fd9ae0f8ea9c6",
+        "sha256": "1zljn8c9g9ps0h3cj2lwbkagsqacm64rqi4m9bspjacwamwi7lis",
+        "type": "tarball",
+        "url": "https://github.com/numtide/devshell/archive/7a7a7aa0adebe5488e5abaec688fd9ae0f8ea9c6.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
     "niv": {
         "branch": "master",
         "description": "Easy dependency management for Nix projects",
